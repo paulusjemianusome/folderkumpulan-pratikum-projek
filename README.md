@@ -22,9 +22,9 @@
 * Index,Pengirisan dan Nested list `tugas prktikum-b5`
 * Biodata `tugas.pertemuan9 si23-B`
 * Tebak angka `231031063-Paulus-Jemianus-Ome-praktikum-b9`
-* Program pembagian '231031063-Paulus-jemianus-ome-tugas1-10-b`
-* Program penjumlahan jam '231031063-Paulus-jemianus-ome-tugas21-10-b`
-* Program selisih jam '231031063-Paulus-jemianus-ome-tugas22-10-b`
+* Program pembagian `231031063-Paulus-jemianus-ome-tugas1-10-b`
+* Program penjumlahan jam `231031063-Paulus-jemianus-ome-tugas21-10-b`
+* Program selisih jam `231031063-Paulus-jemianus-ome-tugas22-10-b`
 * Program fungsi fibonacci `231031063-Paulus-Jemianus-Ome-praktikum-b11`
 
 
